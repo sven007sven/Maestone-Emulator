@@ -55,7 +55,7 @@ We found the Client here:
 First, the client must be prepared for the following steps are necessary 
 
 1. Download the Client
-You can find the client [Here] https://download.project-maestone.info/
+You can find the client [Here] https://download.project-maestone.info/ or here by Admin-Tera -> https://drive.google.com/file/d/1vy8QpnIoA2N0EXV_nd5CTtq3WSwTXc9a/view?usp=sharing
 
 2. Unzip the Client
    
